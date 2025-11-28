@@ -120,18 +120,43 @@ A multimodal workspace orchestrator with:
 
 ---
 
+### **6️⃣ TenderScope — AI-Powered Tender Offer Extraction & Review System**
+A specialized system for extracting, validating, and reviewing **Tender Offer** documents (SEC, stock exchange, corporate action PDFs).  
+Built for high-accuracy financial document processing using LLMs, VLMs, and structured extraction.
+
+#### 🔍 Key Features
+- Automated text + table extraction from PDF tender offers  
+- Visual Layout Model (VLM) box detection for side-by-side comparison  
+- Entity extraction & normalization (CUSIP, ISIN, deadlines, interest rates)  
+- Human-in-the-loop correction panel  
+- RAG-enhanced validation workflows  
+- Multi-agent architecture for extraction, validation, enrichment, and summary generation  
+
+#### 🧠 Tech & Skills Demonstrated
+- **Pydantic v2 models** for structured outputs & data validation  
+- **Advanced type hints & annotations** for production-quality Python code  
+- **Unit tests** (pytest) for extraction + transformation functions  
+- **Integration tests** for end-to-end PDF → JSON → Review pipeline  
+- **Docstrings (Google/NumPy style)** for clarity and maintainability  
+- **Python best practices** (modular project layout, service classes, utilities, linting with Ruff)  
+- **FastAPI-based backend**, extensible for UI tools or LangGraph agents  
+- **LangChain/LangGraph orchestration** for agentic extraction workflows  
+- **VLM + LLM hybrid processing** for accurate, explainable results
+  
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erjijogeorge&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erjijogeorge&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erjijogeorge&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erjijogeorge&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjijogeorge&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjijogeorge&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
