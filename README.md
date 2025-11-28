@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <b>Jijo George</b></h1>
-<h3 align="center">Full-Stack AI Engineer | Agentic AI | RAG Architect | Cloud | FastAPI</h3>
+<h3 align="center">Full-Stack AI Engineer | Agentic AI | RAG Solutions | Cloud | FastAPI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jijo-george-708430b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
