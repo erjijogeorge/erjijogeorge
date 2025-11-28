@@ -53,6 +53,10 @@ I build production-grade AI solutions that combine **LLMs, agents, retrieval, or
   <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Agents%20Framework-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenRouter-4B0082?style=for-the-badge"/>
 </p>
 
 ### **Backend**
