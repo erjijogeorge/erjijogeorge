@@ -91,7 +91,7 @@ Enterprise RAG solution with:
 
 ---
 
-### **2️⃣ WorkSphere Trinity v2 – Voice-Powered Agentic System**
+### **2️⃣ Voice-Powered Agentic System**
 A multimodal workspace orchestrator with:
 - GPT-4o-mini + GPT-5 dual-model architecture  
 - Realtime transcription  
@@ -108,7 +108,7 @@ A multimodal workspace orchestrator with:
 
 ---
 
-### **4️⃣ Competitor Insights & Lead Generator**
+### **4️⃣ Insights & Lead Generator**
 - Firecrawl SDK (web crawling + extraction)  
 - Multi-LLM analytics with Gemini + Claude  
 - Dashboard insights UI  
@@ -116,7 +116,7 @@ A multimodal workspace orchestrator with:
 
 ---
 
-### **5️⃣ Sales Workbench Dashboard**
+### **5️⃣ Sales Dashboard**
 - Next.js + Tailwind CSS  
 - FastAPI backend  
 - Predictive analytics  
