@@ -116,7 +116,7 @@ A multimodal workspace orchestrator with:
 
 ---
 
-### **5️⃣ Sales Workbench Dashboard (JM Family Enterprises)**
+### **5️⃣ Sales Workbench Dashboard**
 - Next.js + Tailwind CSS  
 - FastAPI backend  
 - Predictive analytics  
