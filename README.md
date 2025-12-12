@@ -79,7 +79,7 @@ I build production-grade AI solutions that combine **LLMs, agents, retrieval, or
 
 ## 📌 Featured Projects
 
-### **1️⃣ GenAI-in-a-Box Accelerator (Databricks RAG)**
+### **1️⃣ Databricks RAG**
 Enterprise RAG solution with:
 - DBRX LLM  
 - Delta Lake–backed vector search  
